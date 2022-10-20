@@ -1,0 +1,60 @@
+body{
+	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT35BLXPIvsk8ZrH0rd9ShrBo8QXmKWBYng40_QrooM739gAVHP8nZNSpReMH1cRJFJdyQ&usqp=CAU);
+	margin-left:50px;
+	margin-right:50px;
+}
+.main {
+	display: flex;
+
+}
+.header {
+	display: flex;
+	text-align:center;
+
+}
+.menu {
+	display: flex;
+	align-items:center;
+	
+}
+.nav {
+	text-transform: uppercase;
+	text-transform: none;
+	font-size:20px; 
+}
+.menu li a {
+	margin-right:40px; 
+	text-decoration:none;
+	color:#000;
+	font-family: 'Montserrat', sans-serif;
+}
+.nav ul {
+	list-style:none;
+}
+.left {
+   margin:0;
+}
+.table{
+	margin-top:30px;
+}
+.cars img {
+	height:100%;
+	width:100%;
+}
+.offer h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:50px;
+}
+.offer p {
+	font-family: 'Montserrat', sans-serif;
+}
+.video video{
+	height:50%;
+	width:50%;
+}
+.cars {
+	margin-top: 80px;
+}
+.header a:hover {
+color:blue;
+}
